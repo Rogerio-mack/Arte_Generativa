@@ -15,10 +15,12 @@ Arte Generativa (mainly in Python)
 
 <br>
 
-<figure>
-  <img src="http://meusite.mackenzie.br/rogerio/painters/Kandinsky.jpg" width=460, align="right"> 
-  <figcaption>Kandinsky's Composition VII (1913).</figcaption>
-</figure>
+<p align = "right">
+<img src = "http://meusite.mackenzie.br/rogerio/painters/Kandinsky.jpg" width=460, align="right">
+</p>
+<p align = "right">
+  <b>Kandinsky's Composition VII (1913).</b>
+</p>
 
 <br>
 
@@ -38,18 +40,32 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 * [Aprenda sobre IA Generativa e Experimente sem Programação](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Generative_AI.ipynb) 
 > Indicado para quaisquer alunos interessados no uso do computador para produção artística e usos da inteligência artificial sem requerer qualquer conhecimento de programação. *Ideal para alunos dos primeiros semestres de quaisquer cursos*.
 
-<img src="http://meusite.mackenzie.br/rogerio/painters/nightcafe_my_cat.png" width=200, align="center"> 
+<p align = "center">
+<img src = "http://meusite.mackenzie.br/rogerio/painters/nightcafe_my_cat.png" width=200, align="center">
+</p>
+<p align = "center">
+  <b>Imagem gerada automaticamente pela IA NigthCafé para a frase: <it>My cat flight to the moon!</it> </b>
+</p>
+
 
 * [Criando Arte com Python a partir de Funções Matemáticas](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Samila_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados com funções matemáticas. *Ideal para alunos de matemática*. 
 
-<img src="http://meusite.mackenzie.br/rogerio/painters/wavesilk.png" width=200, align="center"> 
+<p align = "center">
+<img src = "http://meusite.mackenzie.br/rogerio/painters/wavesilk.png" width=200, align="center">
+</p>
+<p align = "center">
+  <b>Funções matemáticas e randomizadas podem ser fonte imagens surpreendentes (gerado com wavesilk).</b>
+</p>
 
 * [Aplicação de Estilos em Imagens com IA e Python](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Magenta_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados IA, aprendizado de máquina. *Ideal para alunos de Ciências da Computação, Sistemas de Informação e Jogos Digitais, e cursos de pós*. 
 
-<img src="http://meusite.mackenzie.br/rogerio/painters/Monet.jpg" width=160, align="left"> 
-<br>
-<img src="http://meusite.mackenzie.br/rogerio/painters/beatles.png" width=200, align="left"> 
-<br>
 
+<p align = "center">
+<img src="http://meusite.mackenzie.br/rogerio/painters/Monet.jpg" width=160, align="center"> 
+<img src="http://meusite.mackenzie.br/rogerio/painters/beatles.png" width=200, align="center"> 
+</p>
+<p align = "center">
+  <b>Imagem do álbum <it> Beatles for Sale (1964) </it> com o estilo das pinturas de Monet.</b>
+</p>
