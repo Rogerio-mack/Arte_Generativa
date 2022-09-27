@@ -24,7 +24,7 @@ Arte Generativa (mainly in Python)
 
 <br>
 
-Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generativa. Há atividades para todos os gostos, leitura, programação, uso de aplicativos. Todas vão ajudar de algum modo você a compreender algum aspecto da  Arte & IA Generativa. Você pode fazer quais labs de sua escolha, e pode mesmo fazer os três. Cada lab, concluído completamente, contará como uma atividade complementar de 1h. Os labs também ficarão disponíveis após a Semana de Tecnologia e Inovação da FCI para seu uso e consulta, embora após a semana, não terão efeito para horas complementares. *Have Fun!*
+Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generativa. Há atividades para todos os gostos, leitura, programação, uso de aplicativos. Todas vão ajudar de algum modo você a compreender algum aspecto da  Arte & IA Generativa. Você pode fazer quais labs de sua escolha, e pode mesmo fazer os três. Cada lab, concluído completamente, contará como uma atividade complementar de 1h. Os labs também ficarão disponíveis após a Semana de Tecnologia e Inovação da FCI para seu uso e consulta, embora após a semana, não terão efeito para horas complementares. Clique no link do Lab e *Have Fun!*
 
 <br>
 
