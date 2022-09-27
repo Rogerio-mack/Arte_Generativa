@@ -37,7 +37,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 <br>
 
 
-* [Aprenda sobre IA Generativa e Experimente sem Programação](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Generative_AI.ipynb) 
+* [**Aprenda sobre IA Generativa e Experimente sem Programação**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Generative_AI.ipynb) 
 > Indicado para quaisquer alunos interessados no uso do computador para produção artística e usos da inteligência artificial sem requerer qualquer conhecimento de programação. *Ideal para alunos dos primeiros semestres de quaisquer cursos*.
 
 <p align = "center">
@@ -48,7 +48,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 </p>
 
 
-* [Criando Arte com Python a partir de Funções Matemáticas](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Samila_art_generator.ipynb) 
+* [**Criando Arte com Python a partir de Funções Matemáticas**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Samila_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados com funções matemáticas. *Ideal para alunos de matemática*. 
 
 <p align = "center">
@@ -58,7 +58,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
   <b>Funções matemáticas e randomizadas podem ser fonte imagens surpreendentes (gerado com wavesilk).</b>
 </p>
 
-* [Aplicação de Estilos em Imagens com IA e Python](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Magenta_art_generator.ipynb) 
+* [**Aplicação de Estilos em Imagens com IA e Python**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Magenta_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados IA, aprendizado de máquina. *Ideal para alunos de Ciências da Computação, Sistemas de Informação e Jogos Digitais, e cursos de pós*. 
 
 
