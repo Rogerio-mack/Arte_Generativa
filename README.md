@@ -14,8 +14,12 @@
 Arte Generativa (mainly in Python)
 
 <br>
-<img src="http://meusite.mackenzie.br/rogerio/painters/Kandinsky.jpg" width=460, align="right"> 
-Kandinsky's Composition VII (1913)
+
+<figure>
+  <img src="http://meusite.mackenzie.br/rogerio/painters/Kandinsky.jpg" width=460, align="right"> 
+  <figcaption>Kandinsky's Composition VII (1913).</figcaption>
+</figure>
+
 <br>
 
 Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generativa. Há atividades para todos os gostos, leitura, programação, uso de aplicativos. Todas vão ajudar de algum modo você a compreender algum aspecto da  Arte & IA Generativa. Você pode fazer quais labs de sua escolha, e pode mesmo fazer os três. Cada lab, concluído completamente, contará como uma atividade complementar de 1h. Os labs também ficarão disponíveis após a Semana de Tecnologia e Inovação da FCI para seu uso e consulta, embora após a semana, não terão efeito para horas complementares. *Have Fun!*
