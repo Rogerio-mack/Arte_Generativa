@@ -47,6 +47,9 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
   <b>Imagem gerada automaticamente pela IA NigthCafé para a frase: <it>My cat flight to the moon!</it> </b>
 </p>
 
+<br>
+
+<br>
 
 * [**Criando Arte com Python a partir de Funções Matemáticas**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Samila_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados com funções matemáticas. *Ideal para alunos de matemática*. 
@@ -57,6 +60,10 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 <p align = "center">
   <b>Funções matemáticas e randomizadas podem ser fonte imagens surpreendentes (gerado com wavesilk).</b>
 </p>
+
+<br>
+
+<br>
 
 * [**Aplicação de Estilos em Imagens com IA e Python**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Magenta_art_generator.ipynb) 
 > Indicado para alunos com algum conhecimento de programação e familiarizados IA, aprendizado de máquina. *Ideal para alunos de Ciências da Computação, Sistemas de Informação e Jogos Digitais, e cursos de pós*. 
