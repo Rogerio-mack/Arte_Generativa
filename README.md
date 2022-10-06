@@ -13,6 +13,8 @@
 # Arte & IA Generativa
 Arte Generativa (mainly in Python)
 
+<h3>Escolha um dos Labs para obter as horas complementares.</h3>
+
 <br>
 
 <p align = "right">
