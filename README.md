@@ -38,7 +38,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 
 
 ## [**Lab1. Aprenda sobre IA Generativa e Experimente sem Programação**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Generative_AI.ipynb) 
-> Indicado para quaisquer alunos interessados no uso do computador para produção artística e usos da inteligência artificial sem requerer qualquer conhecimento de programação. *Ideal para alunos dos primeiros semestres de quaisquer cursos*. Link para entrega do [Lab 1](https://docs.google.com/forms/d/e/1FAIpQLSfUsSdyUe2P0XDfJtHFowWlwXLNLe5-MP1Gh1OTP7ET51WYMA/viewform?usp=sf_link).
+> Indicado para quaisquer alunos interessados no uso do computador para produção artística e usos da inteligência artificial sem requerer qualquer conhecimento de programação. *Ideal para alunos dos primeiros semestres de quaisquer cursos*. **Link para entrega do [Lab 1](https://docs.google.com/forms/d/e/1FAIpQLSfUsSdyUe2P0XDfJtHFowWlwXLNLe5-MP1Gh1OTP7ET51WYMA/viewform?usp=sf_link)**.
 
 <p align = "center">
 <img src = "http://meusite.mackenzie.br/rogerio/painters/nightcafe_my_cat.png" width=200, align="center">
@@ -52,7 +52,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 <br>
 
 ## [**Lab 2. Criando Arte com Python a partir de Funções Matemáticas**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Samila_art_generator.ipynb) 
-> Indicado para alunos com algum conhecimento de programação e familiarizados com funções matemáticas. *Ideal para alunos de matemática*. Link para entrega do [Lab 2](https://docs.google.com/forms/d/e/1FAIpQLScX3Omcd44DUvWCVGH82tuCcXO-wtkCYnl43WILthOV6wlsQA/viewform?usp=sf_link).
+> Indicado para alunos com algum conhecimento de programação e familiarizados com funções matemáticas. *Ideal para alunos de matemática*. **Link para entrega do [Lab 2](https://docs.google.com/forms/d/e/1FAIpQLScX3Omcd44DUvWCVGH82tuCcXO-wtkCYnl43WILthOV6wlsQA/viewform?usp=sf_link)**.
 
 <p align = "center">
 <img src = "http://meusite.mackenzie.br/rogerio/painters/wavesilk.png" width=200, align="center">
@@ -66,7 +66,7 @@ Aqui você vai encontrar 3 Labs para aprender e praticar sobre Arte & IA Generat
 <br>
 
 ## [**Lab 3. Aplicação de Estilos em Imagens com IA e Python**](https://colab.research.google.com/github/Rogerio-mack/Arte_Generativa/blob/main/Magenta_art_generator.ipynb) 
-> Indicado para alunos com algum conhecimento de programação e familiarizados IA, aprendizado de máquina. *Ideal para alunos de Ciências da Computação, Sistemas de Informação e Jogos Digitais, e cursos de pós*. Link para entrega do [Lab 3](https://docs.google.com/forms/d/e/1FAIpQLSegwGaJ017w_U0b9IiG3OApfH7PI6P9yM8zP4EZG-TYYbYAsA/viewform?usp=sf_link).
+> Indicado para alunos com algum conhecimento de programação e familiarizados IA, aprendizado de máquina. *Ideal para alunos de Ciências da Computação, Sistemas de Informação e Jogos Digitais, e cursos de pós*. **Link para entrega do [Lab 3](https://docs.google.com/forms/d/e/1FAIpQLSegwGaJ017w_U0b9IiG3OApfH7PI6P9yM8zP4EZG-TYYbYAsA/viewform?usp=sf_link).**
 
 
 <p align = "center">
